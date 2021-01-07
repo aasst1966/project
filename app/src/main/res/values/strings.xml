@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="title">猜數字遊戲</string>
+    <string name="submit">送出</string>
+    <string name="restart">重新產生數字</string>
+    <string name="start">遊戲開始</string>
+    <string name="Tip">遊戲說明:請輸入任意四位數字(數字可重複)，A為位置數字正確，B為數字正確</string>
+</resources>
